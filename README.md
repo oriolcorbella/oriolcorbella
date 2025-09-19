@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hola, sóc Oriol — Desenvolupador Web
 
-<!--
-**oriolcorbella/oriolcorbella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Benvingut al meu perfil de GitHub! Sóc un apassionat del desenvolupament web amb ganes constants d'aprendre, crear i col·laborar. M'encanta transformar idees en experiències digitals funcionals i atractives.
 
-Here are some ideas to get you started:
+## 🧰 Tecnologies i eines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **Frontend:** HTML5, CSS3, JavaScript (ES6+), React, Vue.js
+- 🛠️ **Backend:** Node.js, Express, PHP, MySQL, MongoDB
+- 🎨 **Disseny:** Figma, Adobe XD, Tailwind CSS, Sass
+- 🚀 **Altres:** Git, GitHub, Vite, Webpack, REST APIs, Firebase
+
+## 📂 Projectes destacats
+
+- [Portfolio personal](https://tuweb.dev) — Web responsive amb React i animacions amb Framer Motion.
+- [Gestor de tasques](https://github.com/tuusuari/task-manager) — App full-stack amb Node.js i MongoDB.
+- [Blog tècnic](https://github.com/tuusuari/dev-blog) — Plataforma de blogging amb autenticació i editor Markdown.
+
+## 📈 Estadístiques
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oriolcorbella&show_icons=true&theme=radical)
+
+## 📫 Contacte
+- 📞Telefon: 681 084 232
+- 📧 Email: uriolcorbella06@gmail.com
+
+---
+
+🔍 Sempre estic obert a col·laboracions, projectes freelance o simplement a compartir coneixement. Si tens una idea, parlem!
+
