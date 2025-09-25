@@ -13,7 +13,7 @@ Benvingut al meu perfil de GitHub! Sóc un apassionat del desenvolupament web am
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oriolcorbella&show_icons=true&theme=radical)
 
 ## 📫 Contacte
-- 📞Telefon: 681 084 232
+- 📞Telefon: (+34) 681 084 232
 - 📧 Email: uriolcorbella06@gmail.com
 
 ---
