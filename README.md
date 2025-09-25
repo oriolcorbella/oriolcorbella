@@ -1,4 +1,4 @@
-# 👋 Hola, sóc Oriol — Desenvolupador Web
+# Oriol Corbella — Desenvolupador Web
 
 Benvingut al meu perfil de GitHub! Sóc un apassionat del desenvolupament web amb ganes constants d'aprendre, crear i col·laborar. M'encanta transformar idees en experiències digitals funcionals i atractives.
 
