@@ -1,4 +1,4 @@
-<h1 align="center">Hola, sóc Oriol Corbella 👋</h1>
+<h1 align="center">Hola, sóc l'Oriol Corbella 👋</h1>
 <h3 align="center">Desenvolupador Web Full Stack</h3>
 
 <p align="center">
